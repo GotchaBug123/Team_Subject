@@ -3,5 +3,5 @@
 - **김미리** : https://github.com/kimmiri1234/baekTeam
 
 ---
-### 팀 url
-- **팀명** :
+### https://github.com/GotchaBug123
+- **김수형** : https://github.com/bestevan01
