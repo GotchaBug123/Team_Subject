@@ -4,7 +4,7 @@
   - 집에가고싶조: 
   - 세븐일레븐: https://www.notion.so/337c6c4cb51580eca9cadcc9efd87728
   - 인텔리제이조: https://www.notion.so/5-33b50085f74e800bb200f52accc58b86?source=copy_link
-  - 남자만있조: 
+  - 남자만있조: https://www.notion.so/334f734340a78017b915f79f01ab2ec2?v=334f734340a7804595e1000ced1050f3&p=33ef734340a780b58691e0dbdf087230&pm=s
   - 버그잡았조: https://docs.google.com/document/d/1GkHyfhA39aXf7t7J6GNIcQ9bfzAcsdggUjX8Xywxr5k/edit?usp=sharing
 
 
